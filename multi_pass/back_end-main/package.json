@@ -1,0 +1,33 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/incubateur_m2i_afpa/multi-pass/back_end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/incubateur_m2i_afpa/multi-pass/back_end/issues"
+  },
+  "homepage": "https://gitlab.com/incubateur_m2i_afpa/multi-pass/back_end#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "nodejs-nodemailer-outlook": "^1.2.4",
+    "nodemailer": "^6.7.1",
+    "nodemon": "^2.0.14",
+    "stripe": "^8.209.0"
+  }
+}

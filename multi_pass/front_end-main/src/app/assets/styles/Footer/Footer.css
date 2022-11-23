@@ -1,0 +1,14 @@
+.FooterCadreLi1 {
+    @apply w-64 align-top;
+}
+.FooterCadreLi2 .FooterCadreLi3 .FooterCadreLi4 {
+    @apply w-80 align-top;
+    border-bottom: green;
+    
+}
+
+.FooterCadreLi6 .FooterCadreLi7 .FooterCadreLi8 {
+    @apply w-80 align-top;
+    border-bottom: green;
+    flex-direction: row;
+}

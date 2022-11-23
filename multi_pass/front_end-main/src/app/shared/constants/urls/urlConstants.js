@@ -1,0 +1,16 @@
+export const URL_HOME = '/'
+export const URL_LOGIN = '/login'
+export const URL_ADMIN_HOME = '/admin'
+export const URL_INCRISPTION = '/register'
+export const URL_TEST = '/test'
+export const URL_CONTACT = '/contact';
+export const URL_MESSAGE = '/message';
+export const URL_LISTE_PRODUIT = '/ListTousProduits';
+export const URL_LISTE_PRODUIT_RECH = '/rech';
+export const URL_DETAIL_PRODUIT = '/detailProduit';
+export const URL_PROFIL = "/profil";
+export const URL_FORGETPASSWORD = "/forgetPassword"
+export const URL_PANIER = "/panier"
+export const URL_PAIEMENT = "/paiement"
+export const URL_VAL_COMMANDE = "/validation"
+export const URL_INFORMATIONS ="/informations"
